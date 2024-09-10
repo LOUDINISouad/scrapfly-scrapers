@@ -8,13 +8,13 @@
     "aggregateRating": {
       "@type": "AggregateRating",
       "ratingValue": "4.5",
-      "reviewCount": 1065
+      "reviewCount": 1125
     },
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Thornton Street Intersection with Hughes Hallet Street",
+      "streetAddress": "Thornton Street",
       "addressLocality": "Sliema",
-      "postalCode": "3143",
+      "postalCode": "SLM 3143",
       "addressCountry": {
         "@type": "Country",
         "name": "Malta"
@@ -26,8 +26,8 @@
   "featues": [
     "Free public parking nearby",
     "Free internet",
-    "Pool",
     "Fitness Center with Gym / Workout Room",
+    "Pool",
     "Bar / lounge",
     "Airport transportation",
     "Meeting rooms",
@@ -35,6 +35,8 @@
     "Paid private parking nearby",
     "Street parking",
     "Wifi",
+    "Fitness / spa locker rooms",
+    "Sauna",
     "Pool / beach towels",
     "Infinity pool",
     "Pool with view",
@@ -42,8 +44,6 @@
     "Heated pool",
     "Saltwater pool",
     "Shallow end in pool",
-    "Fitness / spa locker rooms",
-    "Sauna",
     "Coffee shop",
     "Restaurant",
     "Breakfast available",
@@ -58,6 +58,7 @@
     "Steam room",
     "24-hour security",
     "Baggage storage",
+    "Non-smoking hotel",
     "Sun deck",
     "Sun loungers / beach chairs",
     "Sun terrace",
@@ -149,6 +150,126 @@
       "text": "Quiet location close to the sea and in walking distance of the restaurants and shops.   Very friendly, polite and helpful staff, especially Petra from the reception.  Had a clean and comfortable superior room on the 8th floor (seaside).   All the hotel amenities are present (bath robes, slippers, shampoo, shower gel, soap, tissues, espresso machine and tea). Be aware the safe is NOT big enough to store a 15” laptop.  Cause of the COVID-19 reservation was needed at the beach club, which is clean and disinfected on a daily basis.   Spa treatments are great but expensive.  Breakfast was median for a 4* star hotel and your temperature was measured on a daily basis due to the current situation.  There are 2 guest elevators, which took about 5’ to 10 minutes to get one.Overall very nice hotel.",
       "rate": 4.0,
       "tripDate": " August 2020"
+    },
+    {
+      "title": "Simply Perfect",
+      "text": "What an amazing experience the 1926 Hotel & Spa is!The hotel is located in the heart of Sliema, Malta and definitely deserves all the praise in the world for their hospitality during our stay. Our booking was well catered and handled by Mr.James Aquilina who responded quickly to our reservation request and guided us in the best possible manner throughout the process. This professional handling guaranteed that this experience will be an amazing one.We booked a Superior Room but we were surpised with a Junior Suite with a Sea View! We were welcomed by a romantic set-up in our room (upon request) and greeted us with a complimentary bottle of wine to kick off our stay.The rooms are equipped with all the necessary amenities and also includes a heavenly Spa and gym facilities. This hotel is definitely worth visiting and I'd like to once again praise all the staff included who made our stay one remember!",
+      "rate": 5.0,
+      "tripDate": " March 2020"
+    },
+    {
+      "title": "Good hotel, good staff, good service, good location!",
+      "text": "What we liked the most was the friendly staff of the hotel. All were very pleasant and ready to help. The installations are modern and you can have a great view from the top floors. Inside the hotel, there is a spa center, you can enjoy sauna, interior pool and heated loungers included in your stay and then you can also enjoy some massages and other spa services paying a fee. We did a classic massage and enjoyed it very much.The breakfast is very nice and there is a lot of variety. The room is good as well, it is cleaned every day. You have an outside pool 5 minutes away walking. The views are wonderful.The location is perfect. You have the sea avenue within 4 minutes walking - there are a lot of stores and restaurants nearby. There is the possibility of using boats from the avenue to go to Comino and Gozo or do other boat tips.We definitely recommend this hotel.",
+      "rate": 5.0,
+      "tripDate": " September 2020"
+    },
+    {
+      "title": "Great boutique hotel in a fantastic central location",
+      "text": "We booked via Jet2 and what a find. We did pay for a junior suite  so a larger room with wrap round balcony. From the moment we arrived until the moment we left we were made to feel special without it being \"over the top\". The room was very clean and modern ,with daily maid service, the public areas were contemporary and the staff were great. The breakfast was to die , served as a Buffett style for with  a full range from traditional cooked English cooked through to continental  with meats, cheeses, fresh fruit etc  and if you fancied a bucks fizz you could have that too!The hotel also has an indoor spa with pool sauna and steam room which we didn't use as we used the hotels beach club daily which again we couldn't fault. This is free to residents  and if you consider other facilities charge around 30 euros a day per bed this makes the hotel even better value.There hotel is located in a quiet residential area but only  a 5 mins walk to The Point and Sliema centre.If we ever return to Malta this would be out go to hotel.",
+      "rate": 5.0,
+      "tripDate": " July 2022"
+    },
+    {
+      "title": "Lovely stay! :-)",
+      "text": "A must visit! The property is lovely and the service was outstanding! :-) So I def suggest visiting 1926 Hotel & Spa. The only problem we faced was the location since parking can be a struggle in this area. There is a private parking nearby at Tigne Point, but it can't be quite costly on a daily basis.",
+      "rate": 5.0,
+      "tripDate": " November 2020"
+    },
+    {
+      "title": "Valentine's Offer",
+      "text": "Nice luxurious hotel, baby friendly, excellent reception service and socially responsible. The junior suite room is spacious but has two flushing cabinets of the adjacent rooms, water noise was heard in our room when used. The SPA service is excellent and is given with a smile. The breakfast was also excellent.  The Valentine's offer included the dinner that was mainly a quick lunch that was not worth its value. At the Margaux restaurant the food was good but the service was poor.",
+      "rate": 4.0,
+      "tripDate": " February 2021"
+    },
+    {
+      "title": "Enjoyed it so much we booked another two stays! ",
+      "text": "This is one of those hotels where if you find something to complain about you truly are difficult to please. The staff is welcoming, helpful and friendly to the extreme; the rooms are incredible - beds are of the most comfortable we have slept in; the SPA is wonderful; breakfast was delicious and fresh; value for money couldn’t be better. I surprised my husband for his birthday and we stayed here for four nights. It was such a lovely stay that we rebooked for May and this week I’m surprising my best friend and sending him here too. Thank you to Petra, Demetri and Tatiana for going above and beyond to make our stay so memorable. See you soon! Melina & Vassili",
+      "rate": 5.0,
+      "tripDate": " February 2020"
+    },
+    {
+      "title": "Nice Hotel",
+      "text": "Lovely hotel. Rooms & balcony very small but spotlessly clean and bed really comfortableHotel staff don’t challenge those without a face mask which is regrettable.  Hotel could benefit from a bigger terrace to sit on - only 12 seats in total but beach club is a real treat",
+      "rate": 4.0,
+      "tripDate": " August 2021"
+    },
+    {
+      "title": "Excellent choice!",
+      "text": "I rarely give 5 stars but I must admit that I am very satisfied with my week-long stay for new year's holidays at 1926 Hotel & Spa. The hotel is well located in the heart of Sliema, next to the beach, the shops and the boat service to Valletta as well as several bus lines. The facility is recently renovated with a stylish modern design. Each room has a balcony and an iPad which I found to be a nice touch. The breakfast, served in the Margaux restaurant, is in my opinion good and tasty, with a wide selection of options. It was nice to use the gym of the hotel even though it is just a small room mainly furnished with cardio machines, but I never found it crowded and thus used without any queues. The swimming pool and Spa facilities are well equipped and I very much enjoyed the massages offered, for sure an highlight of my experience in Malta. All considered I, found 1926 a great value for money, offering excellent services for a good price. I definitely would like to come back in a warmer period to enjoy the hotel beach club as well. Recommended!",
+      "rate": 5.0,
+      "tripDate": " December 2020"
+    },
+    {
+      "title": "Fantastic quality for minimal money (at least in winter).",
+      "text": "We visited the hotel in November 2022 and were absolutely satisfied. 24-hour reception, small and simple (by the standards of Central Europeans) wellness in price. The beach club on the coast was already closed due to the end of the season. It is important that due to the low season, accommodation cost us three times cheaper than in summer - for this money this is a fantastic offer.I was especially pleased with the presence of a small refrigerator in the room (ours did not work at first, but the reception immediately decided everything), coffee makers, tea sets, wine glasses, glasses, cups. Too bad there is no wine opener. The hotel itself is not very new, but quite well renovated and the rooms are well cleaned. The hotel has a luxyry and only slightly more expensive restaurant than the usual ones on the island.The only negative that could be called was that there was no HDMI connector on the TV and therefore films were watched from a laptop. :)",
+      "rate": 5.0,
+      "tripDate": " November 2022"
+    },
+    {
+      "title": "Excellent location to explore Valletta from Sliema but dirty and overcrowded pool ( no priority given to guests)",
+      "text": "At first sight the hotel looked wonderful, we booked the superior room and got an upgrade to a better room. Very nice room and comfortable!The location of the hotel is excellent to explore Valletta ( 5 min walk from the boat that brings you in 5 min from Sliema to Valletta)The breakfast is not the worse but also not the best. ( e.g. coffee tasted very poor, 2 machines available but not operational at peak hour, the 1 out of water the otherone out of beans and it took really like 20 min to have that fixed).Breakfast has all you need but not of a high quality.Staff at breakfast do their utmost and is very friendly.If you want to relax at the stunning looking infinity pool, well... Forget about it!They pretend to take covid-19 measures seriously and you have to book a time slot to use the pool AM or PM ( totally fine with that).So we booked a timeslot to use the pool.We arrived and they did not have space for us at the pool ( while we had booked a timeslot in advance) the manager arranged it, all fine.Than the surprise, the pool was overcrowded with a lot of non hotel guests and this in Corona times???The moreover the pool was full of people drinking in it and very dirty and totally not refreshing and relaxing.This is why we only gave an average ranking to Hotel 1926.It's a pitty because it looks a very nice hotel and has a lot of potential and has great and friendly staff.If you rent a car, there is not a lot of parking space around and you have to be very lucky...",
+      "rate": 3.0,
+      "tripDate": " July 2020"
+    },
+    {
+      "title": "Must have stay!",
+      "text": "So many things to compliment about this hotel. Firstly, the one huge attribute that makes this hotel superior to others is by far their staff. They are extremely accommodating and professional. The hotel should be very proud of having them as staff and I hope they are shown often that they are a real credit to the smooth running of the establishment! A special mention to Sohel who was absolutely great and also the lovely receptionist whom was on shift when we checked in on the evening of 20th July). The hotel itself is beautiful. Great decor and very ideally located! A stone throw from the beach, super markets, great restaurants and bars. But far enough that you aren’t right in the midst of party goers etc. The hotel itself has a great bar with a happy hour in the evenings. Breakfast (if you chose to have it included) was a great addition. Buffet style with lots of choice. We also attended the restaurant one evening for dinner and it was superb! The spa facilities are okay. (A nice addition to your stay) although the steam room wasn’t great and can get a little crowded! The rooms decor wise are fantastic. Great size, good facilities and the cleaning team are excellent and very on top of their job! You have molton brown products included alongside plenty of towels, bath robes, a hair dryer and also well working A/C. It would have been nice for water to be provided daily but only one bottle throughout the stay and this made the coffee machine provided pointless. Also note that there is a large gap under the doors and also extremely thin walls - it is very hard to actually sleep with an elevator right outside your bedroom door with people constantly coming and going alongside the sound of people dragging furniture throughout the night, and quite literally being able to hear the adjacent guest snoring the entire night. (Perhaps a draft excluder could be provided to block under the doors and ear plugs?) The hotel also offer free activities that you are able to book onto. Although we didn’t take advantage of these, they are an extremely nice add on to your guests and once again set you apart from other hotels in the area! Finally one thing to note in regards to the hotel itself (which, admittedly right now is impossible to avoid basically anywhere in Malta) was the building work. Again, this unfortunately is out of the control of the hotel but do note that the builders are right outside the hotel and start work very early until late evening. It is also outside the spa therefore noise is unavoidable. It is a real shame in respect of noise however it doesn’t affect the building itself and is necessary. The beach club, despite the few negative comments is once again a great addition. The sea view is unmatched and the staff were fantastic. The bar is also great and the restaurant was unexpectedly amazing, great portion sizes and really good food (the ribs are a must have!) It opens at 09:30am, and yes, if you want the most ideal beds, I would most definitely arrive prior to 10:30. The only real downfall of this is the fact that there is no age limit. Allowing children to dive into the water / use scuba goggles etc in the pool seems extremely distracting for people wanting a relaxing pool day. It was also very frustrating having the umbrellas up as it’s impossible to sunbathe in the pool when busy and they practically cover all the beds. I would bare this in mind if your main aim is to sunbathe for a tan. Finally, we can’t leave a review without mentioning the fantastic transport service we were grateful to the hotel for arranging for us throughout our stay. Franklin Garage is a family run taxi service used by the hotel and without a doubt a great company. The ease of being able to book through the hotel and charge to the room or use WhatsApp made it extremely easy and better than using any apps. They were always prompt on arrival and John/Lucienne were so lovely. I wouldn’t hesitate recommending them to everyone for their transport needs in Malta! Thankyou! Overall, I would most definitely book to stay at 1926 and I’m so glad we chose this hotel after searching through many others. If you’re looking for a stylish, local, boutique hotel with amazing staff and facilities - this is your place!",
+      "rate": 5.0,
+      "tripDate": " July 2024"
+    },
+    {
+      "title": "Excellently city/beach hotel",
+      "text": "Very comfortable city and beach hotel. I stayed in the junior suite and the room was spacious and the bed was very comfortable. The cleaning team was excellent. My room was cleaned every day and also at the end of the day the bed would be made again. The check in and the check out was very efficient and the staff was friendly.I  just loved the swimming pool, which is a few minutes walk from hotel, just by the sea. They have a beautiful infinity pool which was not overly busy for July. I always managed to get sun loungers by the pool. There is a restaurant and bar by the pool and their food was very good.The spa was was very relaxing with a big jacuzzi, sauna, steam room and some heated chairs that helped to ease my back pain!The breakfast was plentiful with good coffee and fresh orange juice.I would stay in this hotel again and I would recommend it.",
+      "rate": 5.0,
+      "tripDate": " July 2024"
+    },
+    {
+      "title": "Very busy hotel",
+      "text": "There were a lot of issues with our stay, in my opinion the hotel and its facilities are far too small for the amount of guests. The beach club is actually a “complimentary service and runs on a first come first served basis” and is technically not part of the hotel. Most days it was completely full at 10:00am. You have to get in a queue at 09:30am for a sun-bed or you won’t get one, not how I wanted to be spending my holiday mornings and not something I’ve ever had to do before. It makes you feel as though you have to rush around in the morning to ensure you have a sun-bed for the day. Our room was nice, a good size but on the first floor and over the reception. It was extremely noisy day and night. One night there were 15-20 people checking in at 22:00 when we were trying to sleep. The breakfast room is like a cattle market very busy and very small even when we tried to go at “off-peak” times. Having said this the manager Patricia went out of her way to sort out our issues, she went above and beyond to rectify our problems and she was the only reason we didn’t leave the hotel. We were upgraded to a different room and she even reserved sun-beds for us during our stay. Patrica is fantastic they are very lucky to have her working there. All of the reception and beach club staff were very kind and friendly and tried to help us when they could. I feel the arrangement of the beach club and hotel is very bizarre and doesn't work for hotel guests who want to relax and have a chilled holiday. It seemed to be very busy in all areas with not enough space for all guests.",
+      "rate": 3.0,
+      "tripDate": " July 2024"
+    },
+    {
+      "title": "Week stay",
+      "text": "Had a great week at this Hotel.High level standard, friendly staff and perfectly located, far from the caos but still in a center ed area of the island.Great breakfast, clean rooms, fab restaurant and beach club.Highly recommended.Great and friendly chauffeur service from Simon from the Franklin garage company, a very kind and gentle lady who delighted our way back to the airport!!!",
+      "rate": 5.0,
+      "tripDate": " July 2024"
+    },
+    {
+      "title": "Lovely perfectly situated hotel",
+      "text": "We stayed for a week in early June and were so impressed by the friendly, helpful staff, modern spotlessly clean rooms and fantastic location of this hotel, perfect for the ferry to Valletta and it’s transport hub. Also, the breakfast’s were delicious, but the star was the beautiful pool and it’s views. We will definitely be returning to this lovely hotel.",
+      "rate": 5.0,
+      "tripDate": " June 2024"
+    },
+    {
+      "title": "Perfect city trip hotel",
+      "text": "Very nice and trendy hotel. VERY friendly staff and high quality service! Good for a city trip but to busy for a longer period. Beautiful beach bar with excellent food and nice cocktails. Only disappointment was that the hotel also let external people at the swimming pool. Especially at Sunday it was too crowded…",
+      "rate": 4.0,
+      "tripDate": " July 2024"
+    },
+    {
+      "title": "Amazing ❤️",
+      "text": "Such an amazing hotel! Room was kept very clean, staff couldn’t have been nicer or more helpful, food was amazing and the beach club made the trip. Would definitely stay again ❤️ would definitely stay again if we come back up Malta or recommend ❤️",
+      "rate": 5.0,
+      "tripDate": " July 2024"
+    },
+    {
+      "title": "Lovely place die lunch and diner",
+      "text": "Nice place for lunch and diner, friendly and attentive staff! Sagar , very friendly waiter. Nice food and view, lovely atomsphere. Seconde time here for dinner. Great choice in food and drinks . When vistiting sliema, malta, really recommanded",
+      "rate": 5.0,
+      "tripDate": " July 2024"
+    },
+    {
+      "title": "Great hotel but we had some issues.",
+      "text": "The good bit: Great facilities, nice decor, good breakfast selection, an abundance of polite and friendly staff, good location for beach and shops. Resonably priced bar. The stay even included free of charge bus trips to different attractions on the island. (Take some cash for the Mdina/ Blue cave boat ride). The bad bits: Building work. Seven days a week. If you like a lie in, forget it. Hammering from 6:30 - 7:30am onwards, until afternoon ( afternoon siesta not possible due to noise). From our room on the ninth floor, we over looked a building site / crane. It took me a day or two to realise that the loudest construction noise was actually above us, on the tenth floor. Debris fell onto our balcony throughout. Therefore, the balcony was unusable. The cleaners, who did a great job on the room, neglected to sweep / clean any balconies that I could see. Also, to get into your room you have to input a four digit code on a display panel. On 3 separate occasions we could not access our room, as the code failed to open the door. A member of staff on reception was adamant that we were actually in a room on the third floor, and not the ninth! (His computer said so). Keyless entry is a good idea in theory but it caused us unnecessary grief and we ended up demanding a physical key. Be careful with the final bill. We always pay as we go. When checking out, we were told we owed for two drinks. Thankfully we were able to produce online banking receipts.",
+      "rate": 3.0,
+      "tripDate": " June 2024"
+    },
+    {
+      "title": "Amazing Accommodations",
+      "text": "We wanted to thank you for a wonderful stay last week! We had a trip of a lifetime, all thanks to you and your staff. The hotel and the experience we had was exactly as pictured online and as described in the descriptions. We give you 5 stars and 10/10 recommendation to all our friends and family!Also, a big thank you for connecting us with our driver Simone from Franklin Garage.  She went above and beyond for us during our stay at your hotel. You had helped to connect us initially for a day trip to our departure point, and we are forever grateful our paths have crossed! She was extremely friendly, hospital, and proactive. She even helped us to plan ahead for a pre-scheduled return transfer back from our day trip, as well as a hotel to airport departure. We appreciated her loyalty, company and awesome local  recommendations! We know both 1926 and Franklin Garage is lucky to have her!",
+      "rate": 5.0,
+      "tripDate": " June 2024"
     }
   ]
 }

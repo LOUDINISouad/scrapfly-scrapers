@@ -53,12 +53,12 @@
     "longitude": -73.79144,
     "isGeo": true,
     "localizedName": "Malta",
-    "url": "/Tourism-g48103-Malta_New_York-Vacations.html",
-    "HOTELS_URL": "/Hotels-g48103-Malta_New_York-Hotels.html",
-    "ATTRACTIONS_URL": "/Attractions-g48103-Activities-Malta_New_York.html",
-    "RESTAURANTS_URL": "/Restaurants-g48103-Malta_New_York.html",
+    "url": "/Tourism-g48103-Malta_Saratoga_County_New_York-Vacations.html",
+    "HOTELS_URL": "/Hotels-g48103-Malta_Saratoga_County_New_York-Hotels.html",
+    "ATTRACTIONS_URL": "/Attractions-g48103-Activities-Malta_Saratoga_County_New_York.html",
+    "RESTAURANTS_URL": "/Restaurants-g48103-Malta_Saratoga_County_New_York.html",
     "localizedAdditionalNames": {
-      "longOnlyHierarchy": "New York, United States, North America"
+      "longOnlyHierarchy": "Saratoga County, New York, United States, North America"
     },
     "streetAddress": {
       "street1": null
@@ -76,14 +76,14 @@
         "longOnlyHierarchyTypeaheadV2": "New York, United States"
       },
       "vacationRentalsRoute": {
-        "url": "/VacationRentals-g48103-Reviews-Malta_New_York-Vacation_Rentals.html"
+        "url": "/VacationRentals-g48103-Reviews-Malta_Saratoga_County_New_York-Vacation_Rentals.html"
       },
       "hierarchy": {
-        "parentId": 28953,
+        "parentId": 28001575,
         "naturalParentId": 28953,
         "parent": {
           "names": {
-            "longOnlyHierarchyTypeaheadV2": "United States, North America"
+            "longOnlyHierarchyTypeaheadV2": "New York, United States"
           }
         },
         "naturalParent": {
@@ -192,46 +192,46 @@
     }
   },
   {
-    "placeType": "ACCOMMODATION",
-    "latitude": 35.922157,
-    "longitude": 14.49345,
+    "placeType": "ACTIVITY",
+    "latitude": null,
+    "longitude": null,
     "isGeo": false,
-    "localizedName": "Hilton Malta",
-    "url": "/Hotel_Review-g227101-d227152-Reviews-Hilton_Malta-Saint_Julian_s_Island_of_Malta.html",
-    "HOTELS_URL": "/Hotels?geo=227152",
-    "ATTRACTIONS_URL": "/Attractions?geo=227152",
-    "RESTAURANTS_URL": "/Restaurants?geo=227152",
+    "localizedName": "Private Boat, Blue lagoon, Crystal lagoon Comino, Gozo Malta Ultimate Highlights",
+    "url": "/AttractionProductReview-g190320-d20274434-Private_Boat_Blue_lagoon_Crystal_lagoon_Comino_Gozo_Malta_Ultimate_Highlights-Isla.html",
+    "HOTELS_URL": "/Hotels?geo=20274434",
+    "ATTRACTIONS_URL": "/Attractions?geo=20274434",
+    "RESTAURANTS_URL": "/Restaurants?geo=20274434",
     "localizedAdditionalNames": {
-      "longOnlyHierarchy": "Saint Julian's, Island of Malta, Malta, Europe"
+      "longOnlyHierarchy": "Island of Malta, Malta, Europe"
     },
     "streetAddress": {
-      "street1": "Vjal Portomaso"
+      "street1": null
     },
     "thumbnail": {
       "photoSizeDynamic": {
-        "maxWidth": 3264,
-        "maxHeight": 2448,
-        "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/61/6a/d5/hotel-marin-pool-area.jpg?w={width}&h={height}&s=1"
+        "maxWidth": 720,
+        "maxHeight": 480,
+        "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/15/18/89/caption.jpg?w={width}&h={height}&s=1"
       }
     },
     "locationV2": {
       "vacationRentalsRoute": null,
-      "placeType": "ACCOMMODATION",
+      "placeType": "ACTIVITY",
       "names": {
-        "longOnlyHierarchyTypeaheadV2": "Saint Julian's, Malta"
+        "longOnlyHierarchyTypeaheadV2": "Island of Malta, Malta"
       },
       "hierarchy": {
-        "parentId": 227101,
-        "naturalParentId": 227101,
+        "parentId": 190320,
+        "naturalParentId": 190320,
         "parent": {
           "names": {
-            "longOnlyHierarchyTypeaheadV2": "Island of Malta, Malta"
+            "longOnlyHierarchyTypeaheadV2": "Malta, Europe"
           }
         },
         "naturalParent": {
-          "placeType": "CITY",
+          "placeType": "ISLAND",
           "names": {
-            "name": "Saint Julian's"
+            "name": "Island of Malta"
           }
         }
       }
@@ -284,147 +284,9 @@
     }
   },
   {
-    "placeType": "ACTIVITY",
-    "latitude": null,
-    "longitude": null,
-    "isGeo": false,
-    "localizedName": "Private Boat, Blue lagoon, Crystal lagoon Comino, Gozo Malta Ultimate Highlights",
-    "url": "/AttractionProductReview-g190320-d20274434-Private_Boat_Blue_lagoon_Crystal_lagoon_Comino_Gozo_Malta_Ultimate_Highlights-Isla.html",
-    "HOTELS_URL": "/Hotels?geo=20274434",
-    "ATTRACTIONS_URL": "/Attractions?geo=20274434",
-    "RESTAURANTS_URL": "/Restaurants?geo=20274434",
-    "localizedAdditionalNames": {
-      "longOnlyHierarchy": "Island of Malta, Malta, Europe"
-    },
-    "streetAddress": {
-      "street1": null
-    },
-    "thumbnail": {
-      "photoSizeDynamic": {
-        "maxWidth": 720,
-        "maxHeight": 480,
-        "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/15/18/89/caption.jpg?w={width}&h={height}&s=1"
-      }
-    },
-    "locationV2": {
-      "vacationRentalsRoute": null,
-      "placeType": "ACTIVITY",
-      "names": {
-        "longOnlyHierarchyTypeaheadV2": "Island of Malta, Malta"
-      },
-      "hierarchy": {
-        "parentId": 190320,
-        "naturalParentId": 190320,
-        "parent": {
-          "names": {
-            "longOnlyHierarchyTypeaheadV2": "Malta, Europe"
-          }
-        },
-        "naturalParent": {
-          "placeType": "ISLAND",
-          "names": {
-            "name": "Island of Malta"
-          }
-        }
-      }
-    }
-  },
-  {
-    "placeType": "ATTRACTION",
-    "latitude": 35.960915,
-    "longitude": 14.341861,
-    "isGeo": false,
-    "localizedName": "Popeye Village Malta",
-    "url": "/Attraction_Review-g230152-d546981-Reviews-Popeye_Village_Malta-Mellieha_Island_of_Malta.html",
-    "HOTELS_URL": "/Hotels?geo=546981",
-    "ATTRACTIONS_URL": "/Attractions?geo=546981",
-    "RESTAURANTS_URL": "/Restaurants?geo=546981",
-    "localizedAdditionalNames": {
-      "longOnlyHierarchy": "Mellieha, Island of Malta, Malta, Europe"
-    },
-    "streetAddress": {
-      "street1": "Popeye's Village, Anchor Bay Triq Il-Prajjet"
-    },
-    "thumbnail": {
-      "photoSizeDynamic": {
-        "maxWidth": 2048,
-        "maxHeight": 1536,
-        "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/d8/aa/e8/photo3jpg.jpg?w={width}&h={height}&s=1"
-      }
-    },
-    "locationV2": {
-      "vacationRentalsRoute": null,
-      "placeType": "ATTRACTION",
-      "names": {
-        "longOnlyHierarchyTypeaheadV2": "Mellieha, Malta"
-      },
-      "hierarchy": {
-        "parentId": 230152,
-        "naturalParentId": 230152,
-        "parent": {
-          "names": {
-            "longOnlyHierarchyTypeaheadV2": "Island of Malta, Malta"
-          }
-        },
-        "naturalParent": {
-          "placeType": "MUNICIPALITY",
-          "names": {
-            "name": "Mellieha"
-          }
-        }
-      }
-    }
-  },
-  {
     "placeType": "ACCOMMODATION",
-    "latitude": 35.954456,
-    "longitude": 14.418332,
-    "isGeo": false,
-    "localizedName": "Dolmen Hotel Malta",
-    "url": "/Hotel_Review-g608947-d283134-Reviews-Dolmen_Hotel_Malta-Qawra_Island_of_Malta.html",
-    "HOTELS_URL": "/Hotels?geo=283134",
-    "ATTRACTIONS_URL": "/Attractions?geo=283134",
-    "RESTAURANTS_URL": "/Restaurants?geo=283134",
-    "localizedAdditionalNames": {
-      "longOnlyHierarchy": "Qawra, Island of Malta, Malta, Europe"
-    },
-    "streetAddress": {
-      "street1": "St. Paul's Bay"
-    },
-    "thumbnail": {
-      "photoSizeDynamic": {
-        "maxWidth": 5556,
-        "maxHeight": 4000,
-        "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/db/45/9e/dolmen-hotel-malta.jpg?w={width}&h={height}&s=1"
-      }
-    },
-    "locationV2": {
-      "vacationRentalsRoute": null,
-      "placeType": "ACCOMMODATION",
-      "names": {
-        "longOnlyHierarchyTypeaheadV2": "Qawra, Malta"
-      },
-      "hierarchy": {
-        "parentId": 608947,
-        "naturalParentId": 608947,
-        "parent": {
-          "names": {
-            "longOnlyHierarchyTypeaheadV2": "Island of Malta, Malta"
-          }
-        },
-        "naturalParent": {
-          "placeType": "CITY",
-          "names": {
-            "name": "Qawra"
-          }
-        }
-      }
-    }
-  },
-  {
-    "placeType": "ACCOMMODATION",
-    "latitude": 35.9351,
-    "longitude": 14.3432,
+    "latitude": 35.935207,
+    "longitude": 14.344789,
     "isGeo": false,
     "localizedName": "Radisson Blu Resort & Spa, Malta Golden Sands",
     "url": "/Hotel_Review-g230152-d573828-Reviews-Radisson_Blu_Resort_Spa_Malta_Golden_Sands-Mellieha_Island_of_Malta.html",
@@ -435,13 +297,13 @@
       "longOnlyHierarchy": "Mellieha, Island of Malta, Malta, Europe"
     },
     "streetAddress": {
-      "street1": "Radisson Blu Resort & Spa, Malta Golden Sands"
+      "street1": "Golden Sands Bay"
     },
     "thumbnail": {
       "photoSizeDynamic": {
-        "maxWidth": 1023,
-        "maxHeight": 626,
-        "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/49/b3/e6/resort.jpg?w={width}&h={height}&s=1"
+        "maxWidth": 1024,
+        "maxHeight": 762,
+        "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/6b/3e/a5/resort.jpg?w={width}&h={height}&s=1"
       }
     },
     "locationV2": {
